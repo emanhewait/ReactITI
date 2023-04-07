@@ -1,0 +1,40 @@
+{
+    "product": [{
+            "id": 1,
+
+            "imgPath": "https://images.pexels.com/photos/1983037/pexels-photo-1983037.jpeg?auto=compress&cs=tinysrgb&w=600",
+
+            "productName": "Camera",
+            "price": "500",
+            "quantity": "30"
+        },
+        {
+            "id": 2,
+            "imgPath": "https://images.pexels.com/photos/102100/pexels-photo-102100.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "productName": "Printer",
+            "price": 500,
+            "quantity": 6
+        },
+        {
+            "id": 3,
+            "imgPath": "https://images.pexels.com/photos/1156684/pexels-photo-1156684.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "productName": "Mobile",
+            "price": 400,
+            "quantity": 5
+        },
+        {
+            "id": 4,
+            "imgPath": "https://images.pexels.com/photos/6976094/pexels-photo-6976094.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "productName": "Old TV",
+            "price": 200,
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "imgPath": "https://images.pexels.com/photos/247938/pexels-photo-247938.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "productName": "Alarm",
+            "price": 250,
+            "quantity": 10
+        }
+    ]
+}
